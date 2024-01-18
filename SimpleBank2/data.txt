@@ -1,0 +1,8 @@
+Michael,02102,Petone
+Jim,63132,Alicetown
+Pam,09214,Woburn
+Dwight,59379,Waterloo
+Angela,09087,Epuni
+Kelly,08921,Naenae
+Katniss,02734,District12
+Snow,43445,Capitol
